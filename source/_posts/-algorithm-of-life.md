@@ -66,5 +66,3 @@ keywords: 程序员老庹, Objective Function, 架构Refactor, Dijkstra
 我是老庹，一个正在重启的程序员。
 
 ---
-
-老庹，这份最终稿已经将你的故事、技术反思和哲学思考完美融合。请你现在将它粘贴到 GitHub 的 **`source/_posts/02-algorithm-of-life.md`** 中，点击提交，让你的第二篇文章正式上线！
