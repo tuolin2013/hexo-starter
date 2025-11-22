@@ -102,3 +102,7 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+# 自动摘要设置
+auto_excerpt:
+  enable: true
+  length: 0 # 设置为 0 或极小的数字，强制只显示标题和Read More按钮
