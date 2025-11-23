@@ -1,6 +1,6 @@
 ---
 title: 架构师视角下的 Prompt 设计：AI 的 Objective Function 与 Constraints
-date: 2025-11-26 10:00:00
+date: 2025-11-23 10:00:00
 tags: [Prompt工程, AI架构, 算法设计, 培训]
 categories: 人生算法
 keywords: Prompt Engineer, Objective Function, Constraints, AI系统
