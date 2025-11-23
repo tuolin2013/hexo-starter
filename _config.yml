@@ -110,8 +110,8 @@ auto_excerpt:
 reward:
   enable: true           # 开启打赏功能
   comment: '老兵不易，请杯咖啡☕' # 打赏按钮上方的文字
-  wechatpay: /images/wechat_pay.jpg # 替换为你实际的微信支付图片路径
-  alipay: /images/alipay_pay.jpg     # 替换为你实际的支付宝图片路径
+  wechatpay: wechat_pay.jpg # 替换为你实际的微信支付图片路径
+  alipay: alipay_pay.jpg     # 替换为你实际的支付宝图片路径
 
 # 提示：如果你的主题支持图片数组，可以添加多个二维码
 
