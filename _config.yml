@@ -106,12 +106,5 @@ deploy:
 auto_excerpt:
   enable: true
   length: 0 # 设置为 0 或极小的数字，强制只显示标题和Read More按钮
-# 打赏功能配置（通常在主题的 _config.yml 中）
-reward:
-  enable: true           # 开启打赏功能
-  comment: '老兵不易，请杯咖啡☕' # 打赏按钮上方的文字
-  wechatpay: images/Wechatpay.png# 替换为你实际的微信支付图片路径
-  alipay:  images/Alipay.jpg   # 替换为你实际的支付宝图片路径
 
-# 提示：如果你的主题支持图片数组，可以添加多个二维码
 
