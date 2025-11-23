@@ -6,5 +6,5 @@ reward:
   platforms:
     - alipay
     - wechat
-  alipay: /images/Alipay.jpg  # 上传你的收款码图片路径
-  wechat: /images/Wechatpay.png
+  alipay: /source/images/Alipay.jpg  # 上传你的收款码图片路径
+  wechat: /source/images/Wechatpay.png
