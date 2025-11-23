@@ -1,0 +1,9 @@
+# =========================================================
+# 打赏功能配置 (Tipping/Reward)
+# 这是 Hexo 默认主题 Landscape 的配置文件
+# =========================================================
+
+# 你的微信和支付宝收款码路径
+# 请确保图片已上传到 source/images/ 文件夹下
+wechat_qrcode: /images/Wechatpay.png
+alipay_qrcode: /images/Alipay_pay.jpg
