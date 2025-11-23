@@ -1,6 +1,6 @@
 ---
 title: 47岁程序员的极限操作：用一部 Android 手机部署 Hexo 博客全过程复盘
-date: 2025-11-25 10:00:00
+date: 2025-11-23 23:00:00
 tags: [Hexo, Vercel, 手机部署, GitHub, 极限操作]
 categories: 职业重启
 keywords: 程序员老庹, 手机写博客, Android部署, 运维
