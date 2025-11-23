@@ -106,13 +106,4 @@ deploy:
 auto_excerpt:
   enable: true
   length: 0 # 设置为 0 或极小的数字，强制只显示标题和Read More按钮
-# RSS Feed Configuration
-# -----------------------
-feed:
-  type: atom  # 也可以是 rss2
-  path: atom.xml # 最终的 RSS 文件名
-  limit: 20 # 限制显示的文章数量
-  hub:
-  content: true # 开启在 feed 中包含全文内容 (推荐开启，方便订阅阅读)
-  content_limit:
-  content_limit_delim: ' '
+
