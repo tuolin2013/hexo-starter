@@ -7,5 +7,5 @@ reward_comment: '老兵不易，请杯咖啡☕' # 打赏提示语
 
 # 微信和支付宝收款码路径
 # 确保图片已上传到 source/images/ 文件夹下
-wechat_qrcode: /images/Wechatpay.png 
-alipay_qrcode: /images/Alipay.jpg 
+wechat_qrcode: source/images/Wechatpay.png
+alipay_qrcode: source/images/Apay.jpg
