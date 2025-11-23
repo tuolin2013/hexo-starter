@@ -1,7 +1,7 @@
 ---
 
 title: 我的人生算法为什么失败了？程序员老庹的重启架构哲学
-date: 2025-11-24 10:00:00 
+date: 2025-11-23 17:30:00 
 tags: [人生算法, 架构哲学, 创业复盘, 效率, 鲁棒性, 贪婪算法]
 categories: 创业复盘
 keywords: 程序员老庹, Objective Function, 架构Refactor, Dijkstra
