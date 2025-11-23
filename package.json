@@ -23,13 +23,4 @@
     "hexo-server": "^3.0.0",
     "hexo-theme-landscape": "^1.0.0"
   }
-{
-  "name": "laotuo_blog",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-    "hexo": "^7.0.0",
-    "hexo-generator-feed": "^3.0.0",  
-    "hexo-renderer-ejs": "^2.0.0",
-    
-  }
+}
