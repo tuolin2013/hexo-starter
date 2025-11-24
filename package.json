@@ -3,12 +3,11 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "hexo generate",  <-- 确保这里是 hexo generate
+    "build": "hexo generate", 
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server"
   },
-  // ... 其他内容保持不变
   "engines": {
     "node": ">=16.0.0" 
   }
