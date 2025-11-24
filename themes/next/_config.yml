@@ -278,7 +278,7 @@ reward_settings:
   enable: true
   animation: true
 
-reward:
+＃reward:
   ＃wechatpay: /images/Wechatpay.png
   ＃alipay: /images/Alipay.jpg
   #paypal: /images/paypal.png
