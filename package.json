@@ -27,7 +27,7 @@
     "hexo-theme-next": "^8.26.0"
   }
 "engines": {
-    "node": ">=16.0.0"  // 明确告诉 Vercel 使用 Node 16 或更高版本
+    "node": ">=16.0.0" 
   }
 
 }
