@@ -26,23 +26,8 @@
     "hexo-theme-landscape": "^1.0.0",
     "hexo-theme-next": "^8.26.0"
   }
-{
-  "name": "hexo-starter",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "build": "hexo generate"
-  },
-  "dependencies": {
-    "hexo": "^7.0.0",
-    "hexo-cli": "^4.3.0",
-    "hexo-generator-feed": "^3.0.0",
-    "hexo-renderer-ejs": "^2.0.0"
-    // ... 你的其他依赖
-  },
-  "engines": {
+"engines": {
     "node": ">=16.0.0"  // 明确告诉 Vercel 使用 Node 16 或更高版本
   }
-}
 
 }
